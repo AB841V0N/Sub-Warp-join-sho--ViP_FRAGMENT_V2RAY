@@ -45,8 +45,8 @@
                 },
                 {
                 "type": "wireguard",
-                "tag": "IP->Main, telegram:@AB_841",
-                "detour": "IP->Iran, telegram:@AB_841",
+                "tag": "IP->Main, Yotube:Geekmeek",
+                "detour": "IP->Iran, Yotube:Geekmeek",
                 "local_address": [
                         "172.16.0.2/32",
                         "2606:4700:110:807d:506:fe1b:4007:42/128"
